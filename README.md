@@ -1,5 +1,5 @@
-# learningGit
-A test repository to learn git. Has My python-dev-bin code in it
-## Git is just awesome. I love it.
-I just made my first push!
-## Git is even more awesome
+# Firefox
+Firefox is an awesome browser that over the years has gained popularity and was actuallly one of the first browsers invented
+
+## Privacy
+Firefox is awesome for privacy
